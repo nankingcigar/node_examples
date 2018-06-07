@@ -1,0 +1,15 @@
+{
+  "name": "edge_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nanking Cigar",
+  "license": "MIT",
+  "devDependencies": {
+    "edge-js": "^10.3.0",
+    "edge-ms-sql": "^0.1.4"
+  }
+}
